@@ -23,7 +23,7 @@ E também JavaScript utilizando:
 * <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 ## 
-* Foi muito massa depois que ficou pronto, fiquei bastente satisfeito com o resultado e com meu desempenho, se você tem algum feedback seja ele positivo ou negativo, entre em contato comigo no linkedin pra trocarmos uma ideia =)
+* Foi muito massa depois que ficou pronto, fiquei bastente satisfeito com o resultado e com meu desempenho, se você tem algum feedback seja ele positivo ou negativo, peço que entre em contato comigo no linkedin pra trocarmos uma ideia =)
 
 ## Contatos
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kefesson-araujo-43592b220/)](https://www.linkedin.com/in/kefesson-araujo-43592b220/)
